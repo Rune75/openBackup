@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Backup folders config (user specific)
+backup_folders.txt
+
+# Backup directories
+daily/
+weekly/
+
+# OS specific
+.DS_Store
+Thumbs.db
